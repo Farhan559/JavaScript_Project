@@ -1,0 +1,7 @@
+[2023-08-05T07:35:49.739Z] API Request: {
+	"Name":"Farhan",
+	"Age":24,
+	"Education":"Graduate",
+	"City":"Hyderabad",
+	"Country":"Pakistan"
+};
