@@ -5,3 +5,17 @@
 	"City":"Hyderabad",
 	"Country":"Pakistan"
 };
+[2023-08-08T14:50:43.508Z] API Request: {
+	"Name":"Farhan",
+	"Age":24,
+	"Education":"Graduate",
+	"City":"Hyderabad",
+	"Country":"Pakistan"
+};
+[2023-08-10T13:17:43.215Z] API Request: {
+	"Name":"Farhan",
+	"Age":24,
+	"Education":"Graduate",
+	"City":"Hyderabad",
+	"Country":"Pakistan"
+};
